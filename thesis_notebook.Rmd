@@ -1,0 +1,13 @@
+---
+title: "Stevie's Senior Thesis"
+output: html_notebook
+---
+
+Load libraries
+```{r}
+setwd("~/Documents/Senior Thesis/senior_thesis/)
+
+source('libraries.R')
+source('get_nc.R')
+
+```
