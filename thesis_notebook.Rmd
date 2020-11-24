@@ -11,3 +11,7 @@ source('libraries.R')
 source('get_nc.R')
 
 ```
+
+list urls from cmip6_index.csv
+set save.path
+open and download each url
